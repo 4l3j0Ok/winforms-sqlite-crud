@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alejo\\source\\repos\\SQLiteABM\\SQLiteABM\\SQLiteABM.csproj": {}
+    "D:\\alejo\\C#\\SQLiteABM\\SQLiteABM\\SQLiteABM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alejo\\source\\repos\\SQLiteABM\\SQLiteABM\\SQLiteABM.csproj": {
+    "D:\\alejo\\C#\\SQLiteABM\\SQLiteABM\\SQLiteABM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alejo\\source\\repos\\SQLiteABM\\SQLiteABM\\SQLiteABM.csproj",
+        "projectUniqueName": "D:\\alejo\\C#\\SQLiteABM\\SQLiteABM\\SQLiteABM.csproj",
         "projectName": "SQLiteABM",
-        "projectPath": "C:\\Users\\alejo\\source\\repos\\SQLiteABM\\SQLiteABM\\SQLiteABM.csproj",
+        "projectPath": "D:\\alejo\\C#\\SQLiteABM\\SQLiteABM\\SQLiteABM.csproj",
         "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alejo\\source\\repos\\SQLiteABM\\SQLiteABM\\obj\\",
+        "outputPath": "D:\\alejo\\C#\\SQLiteABM\\SQLiteABM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
